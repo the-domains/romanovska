@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anna Romanovska UX designer]]></title>
         <description><![CDATA[Anna Romanovska UX designer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/romanovska/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 21:24:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 21:25:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/romanovska/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e81f6a-def2-4c8b-a8b2-a404bbff151c.png">]]></description>
+            <link>https://thegrid.ai/romanovska/f2232e11-d6b6-4afc-af36-ee920b288225/index.html</link>
+            <guid isPermaLink="false">f2232e11-d6b6-4afc-af36-ee920b288225</guid>
+            <pubDate>Tue, 29 Mar 2016 21:24:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/255f1b04-f1b3-4349-a34c-146cdb2134ae.gif">]]></description>
-            <link>undefinedac9606cb-a79a-4db9-bd8d-6202abbbaabc/index.html</link>
+            <link>https://thegrid.ai/romanovska/ac9606cb-a79a-4db9-bd8d-6202abbbaabc/index.html</link>
             <guid isPermaLink="false">ac9606cb-a79a-4db9-bd8d-6202abbbaabc</guid>
             <pubDate>Tue, 29 Mar 2016 21:24:02 GMT</pubDate>
         </item>
